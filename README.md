@@ -1,3 +1,2 @@
-# Health_Card_System
-
-(To See zip file pls download it)
+# Health_Card_System   (To See zip file pls download it)
+Health Card System is a web-based application developed for handling health information for bothdoctors and patients. It allows several features for user-friendly interfaces for secure login options, and updating health records. On the other hand, for the doctors' side, it helps in managing health cards showing patients’ medical history, while on the doctors' side, it helps manage patients' information.
